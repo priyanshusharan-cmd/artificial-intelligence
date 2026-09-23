@@ -18,7 +18,7 @@
 
 # 📚 Artificial Intelligence Laboratory Programs
 
-Complete collection of Artificial Intelligence laboratory programs implemented in **Python** as per the official **5th Semester syllabus (Course Code: 23CS5PCAIN)** of the **Department of Computer Science and Engineering** at **BMS College of Engineering (BMSCE)**[cite: 1].
+Complete collection of Artificial Intelligence laboratory programs implemented in **Python** as per the official **5th Semester syllabus (Course Code: 23CS5PCAIN)** of the **Department of Computer Science and Engineering** at **BMS College of Engineering (BMSCE)**.
 
 ---
 
@@ -26,11 +26,11 @@ Complete collection of Artificial Intelligence laboratory programs implemented i
 
 | 👨‍🎓 Student Information | Details | 👩‍🏫 Course Information | Details |
 |---|---|---|---|
-| **Name** | Priyanshu Sharan | **Course Title** | Artificial Intelligence[cite: 1] |
-| **USN** | 1WA24CS223 | **Course Code** | 23CS5PCAIN[cite: 1] |
-| **Semester** | 5th Semester[cite: 1] | **Credits (L-T-P)** | 4 (3-0-1)[cite: 1] |
-| **Department** | Computer Science and Engineering[cite: 1] | **Language Used** | Python 3[cite: 1] |
-| **Institution** | BMS College of Engineering[cite: 1] | **Environment** | Linux / Windows[cite: 1] |
+| **Name** | Priyanshu Sharan | **Course Title** | Artificial Intelligence |
+| **USN** | 1WA24CS223 | **Course Code** | 23CS5PCAIN |
+| **Semester** | 5th Semester | **Credits (L-T-P)** | 4 (3-0-1) |
+| **Department** | Computer Science and Engineering | **Language Used** | Python 3 |
+| **Institution** | BMS College of Engineering | **Environment** | Linux / Windows |
 
 ---
 
@@ -105,60 +105,33 @@ Check Python installation:
 python --version
 # or
 python3 --version
-
-```
-
----
-
-# ▶️ Execution
-
+▶️ Execution
 Navigate to the respective directory and run the program:
 
-```bash
+Bash
 # Example: Run Lab 5a (A* Search)
 python Unit-2/AStarSearch.py
 
 # Example: Run Lab 12 (Alpha-Beta Pruning)
 python Unit-4/AlphaBetaPruning.py
+📖 Course Outcomes (COs)
+CO1: Apply knowledge of agent architecture, searching and reasoning techniques for different applications.[cite: 1]
 
-```
+CO2: Analyse Searching and Inferencing Techniques.[cite: 1]
 
----
+CO3: Design a reasoning and gaming system for a given requirement.[cite: 1]
 
-# 📖 Course Outcomes (COs)
+CO4: Conduct practical experiments for demonstrating agents, searching and inferencing.[cite: 1]
 
-* **CO1:** Apply knowledge of agent architecture, searching and reasoning techniques for different applications.
+📚 Prescribed & Reference Textbooks
+Prescribed: Artificial Intelligence: A Modern Approach, 3rd Edition — Stuart J. Russell, Peter Norvig (Pearson, 2015)[cite: 1].
 
+Reference: Artificial Intelligence, 3rd Edition — Elaine Rich, Kevin Knight, Shivashankar B Nair (Tata McGraw Hill, 2013)[cite: 1].
 
-* **CO2:** Analyse Searching and Inferencing Techniques.
+Reference: Artificial Intelligence: Structures and Strategies for Complex Problem Solving, 5th Edition — George F Luger (Pearson Education, 2009)[cite: 1].
 
-
-* **CO3:** Design a reasoning and gaming system for a given requirement.
-
-
-* **CO4:** Conduct practical experiments for demonstrating agents, searching and inferencing.
-
-
-
----
-
-# 📚 Prescribed & Reference Textbooks
-
-1. **Prescribed:** *Artificial Intelligence: A Modern Approach*, 3rd Edition — Stuart J. Russell, Peter Norvig (Pearson, 2015).
-
-
-2. **Reference:** *Artificial Intelligence*, 3rd Edition — Elaine Rich, Kevin Knight, Shivashankar B Nair (Tata McGraw Hill, 2013).
-
-
-3. **Reference:** *Artificial Intelligence: Structures and Strategies for Complex Problem Solving*, 5th Edition — George F Luger (Pearson Education, 2009).
-
-
-
----
-
-# 📁 Repository Structure
-
-```text
+📁 Repository Structure
+Plaintext
 Artificial-Intelligence/
 │
 ├── Unit-1/
@@ -183,23 +156,13 @@ Artificial-Intelligence/
 │   └── Lab12_AlphaBetaPruning.py
 │
 └── README.md
+⭐ Artificial Intelligence Laboratory Repository ⭐
+Developed By
+Priyanshu Sharan
+USN: 1WA24CS223
 
-```
+Department: Computer Science and Engineering[cite: 1]
 
----
+Institution: BMS College of Engineering, Bengaluru[cite: 1]
 
-# ⭐ Artificial Intelligence Laboratory Repository ⭐
-
-## Developed By
-
-### Priyanshu Sharan
-
-**USN:** 1WA24CS223
-
-**Department:** Computer Science and Engineering
-
-**Institution:** BMS College of Engineering, Bengaluru
-
----
-
-### 🌟 If you found this repository useful, consider giving it a star! 🌟
+🌟 If you found this repository useful, consider giving it a star! 🌟
