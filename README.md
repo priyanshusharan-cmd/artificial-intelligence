@@ -33,23 +33,23 @@ Python implementations of the **Artificial Intelligence laboratory programs**, c
 
 ## 📚 Programs
 
-| # | Program | Topic | Folder |
+| Week | Program | Topic | Folder |
 |:-:|---|---|---|
-| 1 | Tic-Tac-Toe game | Intelligent Agents | [`tic-tac-toe`](01-intelligent-agents/tic-tac-toe) |
-| 1 | Vacuum cleaner agent (simple reflex + goal-based) | Intelligent Agents | [`vacuum-cleaner-agent`](01-intelligent-agents/vacuum-cleaner-agent) |
-| 2 | 8-Puzzle using Depth First Search | Uninformed Search | [`8-puzzle-dfs`](02-uninformed-search/8-puzzle-dfs) |
-| 2 | 8-Puzzle using Iterative Deepening Search | Uninformed Search | [`8-puzzle-iterative-deepening`](02-uninformed-search/8-puzzle-iterative-deepening) |
-| 3 | A* search: misplaced tiles heuristic | Informed Search | [`misplaced-tiles`](03-informed-search/a-star-8-puzzle/misplaced-tiles) |
-| 3 | A* search: Manhattan distance heuristic | Informed Search | [`manhattan-distance`](03-informed-search/a-star-8-puzzle/manhattan-distance) |
-| 4 | Hill Climbing for N-Queens (4-Queens) | Local Search | [`hill-climbing-4-queens`](04-local-search/hill-climbing-4-queens) |
-| 5 | Simulated Annealing for 8-Queens | Local Search | [`simulated-annealing-8-queens`](04-local-search/simulated-annealing-8-queens) |
-| 6 | Truth-table entailment in propositional logic | Propositional Logic | [`truth-table-entailment`](05-propositional-logic/truth-table-entailment) |
-| 7 | Unification in first order logic | First Order Logic | [`unification`](06-first-order-logic/unification) |
-| 8 | Forward chaining in first order logic | First Order Logic | [`forward-chaining`](06-first-order-logic/forward-chaining) |
-| 9 | Resolution in first order logic | First Order Logic | [`resolution`](06-first-order-logic/resolution) |
-| 10 | Alpha-Beta Pruning | Adversarial Search | [`alpha-beta-pruning`](07-adversarial-search/alpha-beta-pruning) |
+| [**Week 1**](01-intelligent-agents/tic-tac-toe) | [Tic-Tac-Toe game](01-intelligent-agents/tic-tac-toe) | Intelligent Agents | [`tic-tac-toe`](01-intelligent-agents/tic-tac-toe) |
+| [**Week 1**](01-intelligent-agents/vacuum-cleaner-agent) | [Vacuum cleaner agent (simple reflex + goal-based)](01-intelligent-agents/vacuum-cleaner-agent) | Intelligent Agents | [`vacuum-cleaner-agent`](01-intelligent-agents/vacuum-cleaner-agent) |
+| [**Week 2**](02-uninformed-search/8-puzzle-dfs) | [8-Puzzle using Depth First Search](02-uninformed-search/8-puzzle-dfs) | Uninformed Search | [`8-puzzle-dfs`](02-uninformed-search/8-puzzle-dfs) |
+| [**Week 2**](02-uninformed-search/8-puzzle-iterative-deepening) | [8-Puzzle using Iterative Deepening Search](02-uninformed-search/8-puzzle-iterative-deepening) | Uninformed Search | [`8-puzzle-iterative-deepening`](02-uninformed-search/8-puzzle-iterative-deepening) |
+| [**Week 3**](03-informed-search/a-star-8-puzzle/misplaced-tiles) | [A* search: misplaced tiles heuristic](03-informed-search/a-star-8-puzzle/misplaced-tiles) | Informed Search | [`misplaced-tiles`](03-informed-search/a-star-8-puzzle/misplaced-tiles) |
+| [**Week 3**](03-informed-search/a-star-8-puzzle/manhattan-distance) | [A* search: Manhattan distance heuristic](03-informed-search/a-star-8-puzzle/manhattan-distance) | Informed Search | [`manhattan-distance`](03-informed-search/a-star-8-puzzle/manhattan-distance) |
+| [**Week 4**](04-local-search/hill-climbing-4-queens) | [Hill Climbing for N-Queens (4-Queens)](04-local-search/hill-climbing-4-queens) | Local Search | [`hill-climbing-4-queens`](04-local-search/hill-climbing-4-queens) |
+| [**Week 5**](04-local-search/simulated-annealing-8-queens) | [Simulated Annealing for 8-Queens](04-local-search/simulated-annealing-8-queens) | Local Search | [`simulated-annealing-8-queens`](04-local-search/simulated-annealing-8-queens) |
+| [**Week 6**](05-propositional-logic/truth-table-entailment) | [Truth-table entailment in propositional logic](05-propositional-logic/truth-table-entailment) | Propositional Logic | [`truth-table-entailment`](05-propositional-logic/truth-table-entailment) |
+| [**Week 7**](06-first-order-logic/unification) | [Unification in first order logic](06-first-order-logic/unification) | First Order Logic | [`unification`](06-first-order-logic/unification) |
+| [**Week 8**](06-first-order-logic/forward-chaining) | [Forward chaining in first order logic](06-first-order-logic/forward-chaining) | First Order Logic | [`forward-chaining`](06-first-order-logic/forward-chaining) |
+| [**Week 9**](06-first-order-logic/resolution) | [Resolution in first order logic](06-first-order-logic/resolution) | First Order Logic | [`resolution`](06-first-order-logic/resolution) |
+| [**Week 10**](07-adversarial-search/alpha-beta-pruning) | [Alpha-Beta Pruning](07-adversarial-search/alpha-beta-pruning) | Adversarial Search | [`alpha-beta-pruning`](07-adversarial-search/alpha-beta-pruning) |
 
-> `#` is the program number used in the lab record index. Each folder has its own README with the aim, algorithm and sample output.
+> Weeks follow the lab schedule and the lab record index. Click any week, program or folder to open its code, README and output.
 
 ---
 
