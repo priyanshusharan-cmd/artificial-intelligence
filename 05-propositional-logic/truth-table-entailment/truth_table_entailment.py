@@ -21,9 +21,9 @@ def tt_entails(query_function):
     symbols = ["P", "Q", "R"]
 
     print("\nTruth Table:")
-    print("-" * 75)
-    print("P\tQ\tR\tKB\tQuery")
-    print("-" * 75)
+    print("-" * 44)
+    print(f"{'P':<8}{'Q':<8}{'R':<8}{'KB':<8}{'Query':<8}")
+    print("-" * 44)
 
     entailment = True
 
@@ -34,7 +34,7 @@ def tt_entails(query_function):
         query = query_function(p, q, r)
 
         print(
-            f"{p}\t{q}\t{r}\t{kb}\t{query}"
+            f"{str(p):<8}{str(q):<8}{str(r):<8}{str(kb):<8}{str(query):<8}"
         )
 
         # Check query only when KB is true
@@ -51,7 +51,7 @@ query3 = lambda p, q, r: implies(q, r)
 
 
 # Main program
-print("WEEK 6: PROPOSITIONAL LOGIC")
+print("PROPOSITIONAL LOGIC - TRUTH TABLE ENUMERATION")
 print("Knowledge Base:")
 print("Q -> P")
 print("P -> NOT Q")
@@ -65,4 +65,3 @@ print("Result:", tt_entails(query2))
 
 print("\nChecking KB entails Q -> R:")
 print("Result:", tt_entails(query3))
-------
