@@ -39,6 +39,19 @@ def get_neighbors(state):
     return neighbors
 
 
+
+# A state can reach the goal only if both have the same
+# inversion-count parity (blank tile ignored)
+def is_solvable(start, goal):
+    def inversions(state):
+        tiles = [t for t in state if t != 0]
+        return sum(1 for i in range(len(tiles))
+                   for j in range(i + 1, len(tiles))
+                   if tiles[i] > tiles[j])
+
+    return inversions(start) % 2 == inversions(goal) % 2
+
+
 def dls(current, goal, limit, path):
 
     if current == goal:
@@ -115,6 +128,10 @@ print_state(start)
 
 print("Goal State:")
 print_state(goal)
+
+if not is_solvable(start, goal):
+    print("This puzzle is not solvable (inversion parity differs).")
+    raise SystemExit
 
 print("Searching using IDS...\n")
 
