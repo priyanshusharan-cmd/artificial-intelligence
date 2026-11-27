@@ -26,7 +26,7 @@ Python implementations of the **Artificial Intelligence laboratory programs**, c
 | **Name** | Priyanshu Sharan | **Course Title** | Artificial Intelligence |
 | **USN** | 1WA24CS223 | **Course Code** | 23CS5PCAIN |
 | **Semester** | 5th Semester | **Credits (L-T-P)** | 4 (3-0-1) |
-| **Department** | Computer Science and Engineering | **Language** | Python 3 |
+| **Department** | Computer Science and Engineering | **Faculty** | Dr. Rashmi H |
 | **Institution** | BMS College of Engineering | **Environment** | Linux / Windows / macOS |
 
 ---
