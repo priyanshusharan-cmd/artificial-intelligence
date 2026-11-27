@@ -35,19 +35,19 @@ Python implementations of the **Artificial Intelligence laboratory programs**, c
 
 | Week | Program | Topic | Folder |
 |:-:|---|---|---|
-| [**Week 1**](01-intelligent-agents/tic-tac-toe) | [Tic-Tac-Toe game](01-intelligent-agents/tic-tac-toe) | Intelligent Agents | [`tic-tac-toe`](01-intelligent-agents/tic-tac-toe) |
-| [**Week 1**](01-intelligent-agents/vacuum-cleaner-agent) | [Vacuum cleaner agent (simple reflex + goal-based)](01-intelligent-agents/vacuum-cleaner-agent) | Intelligent Agents | [`vacuum-cleaner-agent`](01-intelligent-agents/vacuum-cleaner-agent) |
-| [**Week 2**](02-uninformed-search/8-puzzle-dfs) | [8-Puzzle using Depth First Search](02-uninformed-search/8-puzzle-dfs) | Uninformed Search | [`8-puzzle-dfs`](02-uninformed-search/8-puzzle-dfs) |
-| [**Week 2**](02-uninformed-search/8-puzzle-iterative-deepening) | [8-Puzzle using Iterative Deepening Search](02-uninformed-search/8-puzzle-iterative-deepening) | Uninformed Search | [`8-puzzle-iterative-deepening`](02-uninformed-search/8-puzzle-iterative-deepening) |
-| [**Week 3**](03-informed-search/a-star-8-puzzle/misplaced-tiles) | [A* search: misplaced tiles heuristic](03-informed-search/a-star-8-puzzle/misplaced-tiles) | Informed Search | [`misplaced-tiles`](03-informed-search/a-star-8-puzzle/misplaced-tiles) |
-| [**Week 3**](03-informed-search/a-star-8-puzzle/manhattan-distance) | [A* search: Manhattan distance heuristic](03-informed-search/a-star-8-puzzle/manhattan-distance) | Informed Search | [`manhattan-distance`](03-informed-search/a-star-8-puzzle/manhattan-distance) |
-| [**Week 4**](04-local-search/hill-climbing-4-queens) | [Hill Climbing for N-Queens (4-Queens)](04-local-search/hill-climbing-4-queens) | Local Search | [`hill-climbing-4-queens`](04-local-search/hill-climbing-4-queens) |
-| [**Week 5**](04-local-search/simulated-annealing-8-queens) | [Simulated Annealing for 8-Queens](04-local-search/simulated-annealing-8-queens) | Local Search | [`simulated-annealing-8-queens`](04-local-search/simulated-annealing-8-queens) |
-| [**Week 6**](05-propositional-logic/truth-table-entailment) | [Truth-table entailment in propositional logic](05-propositional-logic/truth-table-entailment) | Propositional Logic | [`truth-table-entailment`](05-propositional-logic/truth-table-entailment) |
-| [**Week 7**](06-first-order-logic/unification) | [Unification in first order logic](06-first-order-logic/unification) | First Order Logic | [`unification`](06-first-order-logic/unification) |
-| [**Week 8**](06-first-order-logic/forward-chaining) | [Forward chaining in first order logic](06-first-order-logic/forward-chaining) | First Order Logic | [`forward-chaining`](06-first-order-logic/forward-chaining) |
-| [**Week 9**](06-first-order-logic/resolution) | [Resolution in first order logic](06-first-order-logic/resolution) | First Order Logic | [`resolution`](06-first-order-logic/resolution) |
-| [**Week 10**](07-adversarial-search/alpha-beta-pruning) | [Alpha-Beta Pruning](07-adversarial-search/alpha-beta-pruning) | Adversarial Search | [`alpha-beta-pruning`](07-adversarial-search/alpha-beta-pruning) |
+| [**Week 1**](intelligent-agents/tic-tac-toe) | [Tic-Tac-Toe game](intelligent-agents/tic-tac-toe) | Intelligent Agents | [`tic-tac-toe`](intelligent-agents/tic-tac-toe) |
+| [**Week 1**](intelligent-agents/vacuum-cleaner-agent) | [Vacuum cleaner agent (simple reflex + goal-based)](intelligent-agents/vacuum-cleaner-agent) | Intelligent Agents | [`vacuum-cleaner-agent`](intelligent-agents/vacuum-cleaner-agent) |
+| [**Week 2**](uninformed-search/8-puzzle-dfs) | [8-Puzzle using Depth First Search](uninformed-search/8-puzzle-dfs) | Uninformed Search | [`8-puzzle-dfs`](uninformed-search/8-puzzle-dfs) |
+| [**Week 2**](uninformed-search/8-puzzle-iterative-deepening) | [8-Puzzle using Iterative Deepening Search](uninformed-search/8-puzzle-iterative-deepening) | Uninformed Search | [`8-puzzle-iterative-deepening`](uninformed-search/8-puzzle-iterative-deepening) |
+| [**Week 3**](informed-search/a-star-8-puzzle/misplaced-tiles) | [A* search: misplaced tiles heuristic](informed-search/a-star-8-puzzle/misplaced-tiles) | Informed Search | [`misplaced-tiles`](informed-search/a-star-8-puzzle/misplaced-tiles) |
+| [**Week 3**](informed-search/a-star-8-puzzle/manhattan-distance) | [A* search: Manhattan distance heuristic](informed-search/a-star-8-puzzle/manhattan-distance) | Informed Search | [`manhattan-distance`](informed-search/a-star-8-puzzle/manhattan-distance) |
+| [**Week 4**](local-search/hill-climbing-4-queens) | [Hill Climbing for N-Queens (4-Queens)](local-search/hill-climbing-4-queens) | Local Search | [`hill-climbing-4-queens`](local-search/hill-climbing-4-queens) |
+| [**Week 5**](local-search/simulated-annealing-8-queens) | [Simulated Annealing for 8-Queens](local-search/simulated-annealing-8-queens) | Local Search | [`simulated-annealing-8-queens`](local-search/simulated-annealing-8-queens) |
+| [**Week 6**](propositional-logic/truth-table-entailment) | [Truth-table entailment in propositional logic](propositional-logic/truth-table-entailment) | Propositional Logic | [`truth-table-entailment`](propositional-logic/truth-table-entailment) |
+| [**Week 7**](first-order-logic/unification) | [Unification in first order logic](first-order-logic/unification) | First Order Logic | [`unification`](first-order-logic/unification) |
+| [**Week 8**](first-order-logic/forward-chaining) | [Forward chaining in first order logic](first-order-logic/forward-chaining) | First Order Logic | [`forward-chaining`](first-order-logic/forward-chaining) |
+| [**Week 9**](first-order-logic/resolution) | [Resolution in first order logic](first-order-logic/resolution) | First Order Logic | [`resolution`](first-order-logic/resolution) |
+| [**Week 10**](adversarial-search/alpha-beta-pruning) | [Alpha-Beta Pruning](adversarial-search/alpha-beta-pruning) | Adversarial Search | [`alpha-beta-pruning`](adversarial-search/alpha-beta-pruning) |
 
 > Weeks follow the lab schedule and the lab record index. Click any week, program or folder to open its code, README and output.
 
@@ -59,7 +59,7 @@ Python implementations of the **Artificial Intelligence laboratory programs**, c
 artificial-intelligence/
 ├── README.md
 ├── LICENSE
-├── 01-intelligent-agents/
+├── intelligent-agents/
 │   ├── tic-tac-toe/
 │   │   ├── tic_tac_toe.py
 │   │   ├── output-1.png
@@ -67,14 +67,14 @@ artificial-intelligence/
 │   └── vacuum-cleaner-agent/
 │       ├── vacuum_cleaner_agent.py
 │       └── output.png
-├── 02-uninformed-search/
+├── uninformed-search/
 │   ├── 8-puzzle-dfs/
 │   │   ├── dfs_8_puzzle.py
 │   │   └── output.png
 │   └── 8-puzzle-iterative-deepening/
 │       ├── ids_8_puzzle.py
 │       └── output.png
-├── 03-informed-search/
+├── informed-search/
 │   └── a-star-8-puzzle/
 │       ├── misplaced-tiles/
 │       │   ├── a_star_misplaced_tiles.py
@@ -82,18 +82,18 @@ artificial-intelligence/
 │       └── manhattan-distance/
 │           ├── a_star_manhattan_distance.py
 │           └── output.png
-├── 04-local-search/
+├── local-search/
 │   ├── hill-climbing-4-queens/
 │   │   ├── hill_climbing_4_queens.py
 │   │   └── output.png
 │   └── simulated-annealing-8-queens/
 │       ├── simulated_annealing_8_queens.py
 │       └── output.png
-├── 05-propositional-logic/
+├── propositional-logic/
 │   └── truth-table-entailment/
 │       ├── truth_table_entailment.py
 │       └── output.png
-├── 06-first-order-logic/
+├── first-order-logic/
 │   ├── unification/
 │   │   ├── unification.py
 │   │   ├── output-1.png
@@ -104,7 +104,7 @@ artificial-intelligence/
 │   └── resolution/
 │       ├── resolution.py
 │       └── output.png
-└── 07-adversarial-search/
+└── adversarial-search/
     └── alpha-beta-pruning/
         ├── alpha_beta_pruning.py
         └── output.png
@@ -123,7 +123,7 @@ git clone https://github.com/priyanshusharan-cmd/artificial-intelligence.git
 cd artificial-intelligence
 
 # run any program from its folder, for example:
-cd 07-adversarial-search/alpha-beta-pruning
+cd adversarial-search/alpha-beta-pruning
 python3 alpha_beta_pruning.py
 ```
 
