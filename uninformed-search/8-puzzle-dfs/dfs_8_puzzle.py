@@ -13,10 +13,12 @@ def get_neighbors(state):
     row = zero // 3
     col = zero % 3
 
+    # Move order of the blank: Left, Down, Up, Right
+    # (same order as the DFS tree worked out in the lab)
     moves = [
-        (-1, 0),  # Up
-        (1, 0),   # Down
         (0, -1),  # Left
+        (1, 0),   # Down
+        (-1, 0),  # Up
         (0, 1)    # Right
     ]
 
